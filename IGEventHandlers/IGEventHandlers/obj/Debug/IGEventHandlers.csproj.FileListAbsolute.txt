@@ -1,0 +1,23 @@
+C:\Ganesh\IGEventHandlers\IGEventHandlers\bin\Debug\IGEventHandlers.dll
+C:\Ganesh\IGEventHandlers\IGEventHandlers\bin\Debug\IGEventHandlers.pdb
+C:\Ganesh\IGEventHandlers\IGEventHandlers\obj\Debug\IGEventHandlers.csprojResolveAssemblyReference.cache
+C:\Ganesh\IGEventHandlers\IGEventHandlers\obj\Debug\IGEventHandlers.dll
+C:\Ganesh\IGEventHandlers\IGEventHandlers\obj\Debug\IGEventHandlers.pdb
+C:\Praveen\UpdatedSolutions\SubmissionProcess_BackUp\SourceCode\IGEventHandlers_Mar_23_2016\IGEventHandlers\IGEventHandlers\bin\Debug\IGEventHandlers.dll
+C:\Praveen\UpdatedSolutions\SubmissionProcess_BackUp\SourceCode\IGEventHandlers_Mar_23_2016\IGEventHandlers\IGEventHandlers\bin\Debug\IGEventHandlers.pdb
+C:\Praveen\UpdatedSolutions\SubmissionProcess_BackUp\SourceCode\IGEventHandlers_Mar_23_2016\IGEventHandlers\IGEventHandlers\obj\Debug\IGEventHandlers.dll
+C:\Praveen\UpdatedSolutions\SubmissionProcess_BackUp\SourceCode\IGEventHandlers_Mar_23_2016\IGEventHandlers\IGEventHandlers\obj\Debug\IGEventHandlers.pdb
+D:\Projects\Innova Gate\Predecessor\IGEventHandlers_Jun_30_2016\IGEventHandlers\IGEventHandlers\bin\Debug\IGEventHandlers.dll
+D:\Projects\Innova Gate\Predecessor\IGEventHandlers_Jun_30_2016\IGEventHandlers\IGEventHandlers\bin\Debug\IGEventHandlers.pdb
+D:\Projects\Innova Gate\Predecessor\IGEventHandlers_Jun_30_2016\IGEventHandlers\IGEventHandlers\bin\Debug\DataLan.InnovaOPN.Ideation.Common.dll
+D:\Projects\Innova Gate\Predecessor\IGEventHandlers_Jun_30_2016\IGEventHandlers\IGEventHandlers\bin\Debug\DataLan.InnovaOPN.Ideation.DataAccess.dll
+D:\Projects\Innova Gate\Predecessor\IGEventHandlers_Jun_30_2016\IGEventHandlers\IGEventHandlers\bin\Debug\DataLan.InnovaOPN.Ideation.Dataset.dll
+D:\Projects\Innova Gate\Predecessor\IGEventHandlers_Jun_30_2016\IGEventHandlers\IGEventHandlers\bin\Debug\DataSets.dll
+D:\Projects\Innova Gate\Predecessor\IGEventHandlers_Jun_30_2016\IGEventHandlers\IGEventHandlers\obj\Debug\IGEventHandlers.csprojResolveAssemblyReference.cache
+D:\Projects\Innova Gate\Predecessor\IGEventHandlers_Jun_30_2016\IGEventHandlers\IGEventHandlers\obj\Debug\IGEventHandlers.dll
+D:\Projects\Innova Gate\Predecessor\IGEventHandlers_Jun_30_2016\IGEventHandlers\IGEventHandlers\obj\Debug\IGEventHandlers.pdb
+C:\Praveen\InnovaGate\IGEventHandlers\IGEventHandlers\bin\Debug\IGEventHandlers.dll
+C:\Praveen\InnovaGate\IGEventHandlers\IGEventHandlers\bin\Debug\IGEventHandlers.pdb
+C:\Praveen\InnovaGate\IGEventHandlers\IGEventHandlers\obj\Debug\IGEventHandlers.csprojResolveAssemblyReference.cache
+C:\Praveen\InnovaGate\IGEventHandlers\IGEventHandlers\obj\Debug\IGEventHandlers.dll
+C:\Praveen\InnovaGate\IGEventHandlers\IGEventHandlers\obj\Debug\IGEventHandlers.pdb
